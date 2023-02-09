@@ -1,3 +1,20 @@
+# Introduction
+
+By following a step-by-step approach and utilizing valuable free resources, you can effectively complete this learning exercise in just a matter of hours, provided that you have a solid understanding of the basics. The process is packed with a wealth of knowledge and practical tips that will enhance your understanding. Upon completion, you will be equipped with the skills to create an eye-catching and professional dashboard for your next project or venture.
+
+Additionally, the benefit of this exercise is that you will not only gain hands-on experience in dashboard creation, but you will also have the opportunity to apply and reinforce the fundamental concepts and techniques in a real-world scenario. This practical approach to learning will not only boost your confidence but also equip you with a valuable skill that you can use in your future endeavors.
+
+# Resources
+
+## Video
+* https://youtu.be/jx5hdo50a2M 
+
+## Reference Code
+* https://github.com/adrianhajdin/project_syncfusion_dashboard 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
